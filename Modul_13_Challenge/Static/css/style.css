@@ -1,0 +1,17 @@
+body {
+    background-color: lightgrey;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    color: black;
+    }
+
+.jumbotron {
+    background-image: url("../images/bacteria.png");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+.panel-primary {
+    background:#dbe9e9;
+    
+}
